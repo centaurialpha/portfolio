@@ -58,7 +58,7 @@ const Home = () => {
               <a href="https://twitter.com/_alfacentauri">Twitter</a>
             </li>
             <li className="text-[#bc2a8d] hover:underline">
-              <a href="https://instagram.com/coder.ca">Instagram</a>
+              <a href="https://instagram.com/coder.ga">Instagram</a>
             </li>
           </ul>
         </div>
